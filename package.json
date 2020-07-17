@@ -1,0 +1,15 @@
+{
+  "name": "demo_slds_heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "[server.js]",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@salesforce-ux/design-system": "^2.12.2",
+    "express": "^4.17.1"
+  }
+}
